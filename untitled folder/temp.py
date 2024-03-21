@@ -6,3 +6,4 @@ This is a temporary script file.
 """
 print(Hello World)
 Print("First Class")
+Print("Hello Chicago")
